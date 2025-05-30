@@ -1,0 +1,23 @@
+ 
+The car details are as follows : 
+ Car Brand : toyota
+ Car Model : suv
+ Car varient : diesel
+ Launch year : 2025
+ Offer Price: 1500000
+ Car has these features: 
+	1.ac
+	2.sunroof
+--------------------------------------------------
+ The car details are as follows : 
+ Car Brand : Audi
+ Car Model : Q6
+ Car varient : petrol
+ Launch year : 2019
+ Offer Price: 12000000
+ Car has these features: 
+	1.ac
+	2.sunroof
+	3.airbag
+	4.autogear
+--------------------------------------------------
