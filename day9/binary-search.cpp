@@ -38,3 +38,4 @@ int main() {
     bs.searchElement(key);
     return 0;
 }
+
